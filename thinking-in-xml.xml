@@ -1,22 +1,30 @@
 <CATALOG>
 <MOVIE>
-<TITLE>Empire Burlesque</TITLE>
-<DESCRIPTION>Bob Dylan</DESCRIPTION>
-<RATING>USA</RATING>
-<GENRE>Columbia</GENRE>
-<YEAR>1985</YEAR>
+<TITLE>Hitch</TITLE>
+<DESCRIPTION>While helping his latest client woo the woman of his dreams, a professional "date doctor" finds that his game doesn't quite work on the gossip columnist with whom he's smitten.</DESCRIPTION>
+<RATING>PG-13</RATING>
+<GENRE>Romantic Comedy</GENRE>
+<YEAR>2005</YEAR>
 </MOVIE>
 <MOVIE>
-<TITLE>Empire Burlesque</TITLE>
-<DESCRIPTION>Bob Dylan</DESCRIPTION>
-<RATING>USA</RATING>
-<GENRE>Columbia</GENRE>
-<YEAR>1985</YEAR>
+<TITLE>I am Legend</TITLE>
+<DESCRIPTION>Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure in this post-apocalyptic action thriller.</DESCRIPTION>
+<RATING>PG-13</RATING>
+<GENRE>Drama</GENRE>
+<YEAR>2007</YEAR>
 </MOVIE>
 <MOVIE>
-<TITLE>Empire Burlesque</TITLE>
-<DESCRIPTION>Bob Dylan</DESCRIPTION>
-<RATING>USA</RATING>
-<GENRE>Columbia</GENRE>
-<YEAR>1985</YEAR>
+<TITLE>I, Robot</TITLE>
+<DESCRIPTION>In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.</DESCRIPTION>
+<RATING>PG-13</RATING>
+<GENRE>Action</GENRE>
+<YEAR>2004</YEAR>
 </MOVIE>
+<MOVIE>
+<TITLE>Wild Wild West</TITLE>
+<DESCRIPTION>The two best special agents in the Wild West must save President Grant from the clutches of a diabolical, wheelchair-bound, steampunk-savvy, Confederate scientist bent on revenge for losing the Civil War.</DESCRIPTION>
+<RATING>PG-13</RATING>
+<GENRE>Comedy</GENRE>
+<YEAR>1999</YEAR>
+</MOVIE>
+</CATALOG>
